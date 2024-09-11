@@ -14,6 +14,7 @@ This project implements a data pipeline for classifying mushrooms as poisonous o
 
 - <b>Python - Jupyter Notebook</b> 
 - <b>MySQL - RDBMS</b>
+- <b>Machine Learning</b>
 
 <h2>Dataset</h2>
 
